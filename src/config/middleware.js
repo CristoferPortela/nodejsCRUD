@@ -1,3 +1,4 @@
+'use strict'
 const bp = require('body-parser')
 const cors = require('cors')
 
